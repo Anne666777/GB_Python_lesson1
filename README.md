@@ -1,1 +1,1 @@
-# GB_Python_lesson1
+# GB_Python_lesson1 (1-7)
